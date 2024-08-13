@@ -90,4 +90,18 @@ Note: Make sure you have Git account on platforms which hosts Git repos like Git
 
 Stash Command in Git - Check
 
+
+## Delete branch locally and remotely
+
+Delete remotely
+
+- git push -d <remote_name> <branch_name>
+
+Delete locally
+
+- git branch --delete <branch_name>
+- git branch -d <branch_name>
+
+
+
 Link: <https://www.youtube.com/watch?v=3fUbBnN_H2c&t=618s>
